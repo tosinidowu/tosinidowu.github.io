@@ -8,3 +8,19 @@
 a{
     text-decoration: none;
 }
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+nav ul li a{
+    color:black;
+    position: relative;
+    padding: 5px 0;
+}
+
+nav ul li a:hover{
+    color: #fd4766;
+}

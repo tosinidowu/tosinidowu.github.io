@@ -7,14 +7,15 @@
     <link rel = "stylesheet" href = "style.css">
 </head>
 <body>
-    <hi>Tosin Idowu</hi>
-    <nav>
-        <ul>
-            <li><a href = "#"Home</a></li>
-            <li><a href = "#"Resume</a></li>
-            <li><a href = "#"Portfolio</a></li>
-            <li><a href = "#"Contact Me</a></li>
-        </ul>
-    </nav>
+    <div class = "navbar">
+        <nav>
+            <ul>
+                <li><a href = "#">Home</a></li>
+                <li><a href = "#">Resume</a></li>
+                <li><a href = "#">Portfolio</a></li>
+                <li><a href = "#">Contact Me</a></li>
+            </ul>
+        </nav>
+    </div>
 </body>
 <html/>
