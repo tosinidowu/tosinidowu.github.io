@@ -1,6 +1,4 @@
-.intro{
-    text-align: center;
-}
+
 
 body {
     font-family: 'EB Garamond';font-size: 22px;
@@ -8,4 +6,8 @@ body {
 
 h1{
     color: pink;
+}
+
+.intro{
+    text-align: center;
 }
